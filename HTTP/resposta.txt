@@ -1,0 +1,2 @@
+
+Observando a maneira como os códigos são montados, percebi que há muitas semelhanças entre eles. No entanto, notei uma diferença importante: o Node.js se destaca pela agilidade na construção de aplicações em tempo real. Essa vantagem se deve ao fato de que, com Node.js, posso testar diretamente no console, o que facilita e acelera o processo de desenvolvimento.
